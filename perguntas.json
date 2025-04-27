@@ -1,4 +1,4 @@
-const questions = [
+ [
     // 1 a 10 (as suas primeiras)
     {
         question: "Qual é o sujeito da frase: 'Fomos ao mercado'?",
@@ -206,6 +206,4 @@ const questions = [
         answers: ["Estelionato", "Falsidade ideológica", "Falsificação de documento", "Abuso de poder"],
         correct: "Falsificação de documento"
     }
-];
-
-
+]
